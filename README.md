@@ -2,7 +2,7 @@
 
 - Co-founder @ Novasoft Vision Inc.  
 - Final-year Computer Engineering Student @ uOttawa (Graduating Dec 2025)  
-- Working on web development, embedded systems, smart interfaces, cybersecurity and AI projects.  
+- Working on web development, data management, cybersecurity and AI projects.  
 - 🌐 [Check out my LinkedIn](https://www.linkedin.com/in/hajer-fguir/)
 
 ---
