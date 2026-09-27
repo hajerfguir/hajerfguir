@@ -1,6 +1,6 @@
 ### Hi, I’m Hajer Fguir! 👋
 
-- Computer Engineering Graduate @ University of Ottawa (Dec 2025)
+- Computer Engineering Graduate @ University of Ottawa
 - Software Engineer focused on Cybersecurity, APIs, CI/CD, and AI
 - Co-Founded Novasoft Vision Inc. and worked as a Software Developer
 - Experience in secure software development, authentication, and system design
